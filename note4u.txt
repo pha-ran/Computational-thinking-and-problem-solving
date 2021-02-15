@@ -1,0 +1,5 @@
+Hello, student.
+Welcome to programming world @kau!
+You will learn how to think as well as how to implement programs.
+
+
